@@ -1,0 +1,105 @@
+@font-face {
+    font-family: Bold;
+    src: url(Fonts/AlteHaasGroteskBold.ttf);
+}
+@font-face {
+    font-family: Medium;
+    src: url(Fonts/AlteHaasGroteskRegular.ttf);
+}
+
+i{
+    color: #e96a20;
+}
+.con-2-box{
+    border-radius: 5px;
+}
+.con-2-box img{
+    margin-bottom: 50px;
+}
+.con-2-box h2{
+    margin-bottom: 20px;
+}
+
+.my-section-one-div{
+    margin-top: 100px !important;
+}
+.my-section-one-div span{
+    color: #e8505b;
+}
+.my-section-one-h1{
+    font-size: 60px;
+    font-family: Bold;
+}
+.my-section-one-div p{
+    font-family: Medium;
+}
+.my-section-one-btn{
+    border-style: none;
+    background-color: #e8505b;
+    color: white;
+    font-family: Medium;
+}
+.my-section-two-h1{
+    font-size: 45px;
+    font-family: Bold;
+}
+.my-section-two-h5{
+    color: #e8505b;
+    font-size: 25px;
+    font-family: Bold;
+}
+
+.section-three-mini-box{
+    display: inline-block;
+    background-color: #e8505b;
+    color: white;
+    border-radius: 5px;
+    font-family: Bold;
+}
+.mini-box{
+    display: inline-block;
+}
+.line{
+    width: 3px;
+    height: 65px;
+    background-color: white;
+    display: inline-block;
+}
+.con-2-box h2{
+    font-family: Bold;
+    color: #e8505b;
+}
+.con-2-box p{
+    font-family: Medium;
+}
+.con-3-box h5, h6{
+    font-family: Bold;
+}
+.con-3-box h1{
+    font-family: Bold;
+}
+.con-3-box p{
+    font-family: Medium;
+}
+.con-6-box{
+    font-family: Bold;
+}
+.testimonial p{
+    font-family: Medium;
+}
+.testimonial h5{
+    font-family: Bold;
+}
+.profile{
+    border-radius: 50px;
+}
+.section-seven h1{
+    font-family: Bold;
+}
+.section-eight h2{
+    color: #e8505b;
+    font-family: Bold;
+}
+.section-eight p{
+    font-family: Medium;
+}
